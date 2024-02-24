@@ -482,6 +482,12 @@ footer i:hover {
     padding: 0.6rem 1rem;
   }
 
+  
+    .search-container { 
+      display: none;
+    }
+
+
   /* services */
   .services > p {
     width: 100%;
